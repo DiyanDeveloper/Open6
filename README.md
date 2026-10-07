@@ -54,7 +54,7 @@ Running Open6 is straightforward for any server administrator or developer.
 ### Step-by-Step Installation
  1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Open6.git
+   git clone https://github.com/DiyanDeveloper/Open6.git
    cd Open6
    
    ```
